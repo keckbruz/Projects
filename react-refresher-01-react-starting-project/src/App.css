@@ -1,0 +1,21 @@
+.goallist {
+  /* display: flex; /* Add flexbox */  
+  /* flex-wrap: wrap; /* Wrap the elements to the next row */
+  /* justify-content: center; /* Center the elements */
+  margin-top: 20px; /* Add space above the list */
+}
+
+
+
+.coursegoals h2{
+  margin-top: 100px; /* Add space above the list */
+  text-align: center; /* Center the elements */
+  color: gray;
+}
+
+.buttonwrap {
+  display: flex; /* Add flexbox */
+  justify-content: center; /* Center the elements */
+  margin-top: 20px; /* Add space above the list */
+
+}

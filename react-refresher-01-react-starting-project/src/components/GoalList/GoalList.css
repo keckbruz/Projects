@@ -1,0 +1,20 @@
+.goallist ul {
+    /* display: flex; /* Add flexbox */
+    /* flex-wrap: wrap; /* Wrap the elements to the next row */
+    /* justify-content: center; /* Center the elements */
+    /* margin-top: 20px; /* Add space above the list */
+    padding-inline-start: 0px; /* Remove default padding */
+  }
+  
+  .goallist li {
+    list-style: none; /* Remove bullets */
+    margin: 10px; /* Add space between list items */
+    padding: 10px; /* Add space inside the list item */
+    border: 1px solid #ccc; /* Add a border around each list item */
+    /* border-radius: 5px; /* Optional: Round the corners */
+    /* width: 200px; /* Set the width of the list items */
+    /*height: 200px; /* Set the height of the list items */
+    /* display: flex; /* Add flexbox */
+    /* flex-direction: row; /* Stack the elements vertically */
+    /* justify-content: center; /* Add space between the elements */
+  }
